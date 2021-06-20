@@ -10,14 +10,14 @@ We will be using:
 **Please note, this is not a production solution and you might want to know a lot more than simply tunneling in that case.**
 
 ## Technologies Used
-> Matplotlib
-> Numpy
-> Keras
-> Sklearn
-> Pandas
-> Plotly
-> Ngrok
-> Jupyter Dash
+* Matplotlib
+* Numpy
+* Keras
+* Sklearn
+* Pandas
+* Plotly
+* Ngrok
+* Jupyter Dash
 
 ## Known Bugs.
 {There are no known bugs}
@@ -26,8 +26,3 @@ We will be using:
 {Any issues, questions, ideas, concerns or contributions to the code are highly encouraged. Contacts: paulmwaura254@gmail.com}
 
 
-## Known Bugs.
-{There are no known bugs}
-
-## Support and contact details
-{Any issues, questions, ideas, concerns or contributions to the code are highly encouraged. Contacts: paulmwaura254@gmail.com}
